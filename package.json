@@ -1,0 +1,15 @@
+{
+  "name": "webable-javascript-challenge",
+  "version": "1.0.0",
+  "description": "WebAble JavaScript/Frontend Coding Challenge",
+  "main": "index.js",
+  "repository": "https://github.com/simongomes/webable-javascript-challenge.git",
+  "author": "Simon Gomes",
+  "license": "MIT",
+  "scripts": {
+    "server": "json-server db.json"
+  },
+  "dependencies": {
+    "json-server": "^0.14.2"
+  }
+}
